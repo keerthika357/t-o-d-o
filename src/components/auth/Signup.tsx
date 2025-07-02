@@ -37,13 +37,16 @@ const Signup = ({ onToggleMode }: SignupProps) => {
     console.log('Attempting signup with:', email);
 
     try {
+      const redirectUrl = `${window.location.origin}/`;
+
       const { data, error } = await supabase.auth.signUp({
         email,
         password,
         options: {
           data: {
             full_name: fullName,
-          }
+          },
+          emailRedirectTo: redirectUrl
         }
       });
 
