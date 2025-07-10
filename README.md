@@ -52,10 +52,6 @@ server/         # Node.js Backend
 README.md       # Project Overview
 
 
-## 🧩 Architecture Diagram
-
-![Architecture Diagram](C:/Users/abina/Downloads/collab-flow-todo/todo_architecture_diagram.png)
-
 
 
 ---
