@@ -54,8 +54,7 @@ README.md       # Project Overview
 
 ## 🧩 Architecture Diagram
 
-![Architecture Diagram](todo_architecture_diagram.png)
-<img width="755" height="380" alt="todo_architecture_diagram" src="https://github.com/user-attachments/assets/5bd32b22-653b-4abc-b241-cbd77bd79a63" />
+![Architecture Diagram](C:/Users/abina/Downloads/collab-flow-todo/todo_architecture_diagram.png)
 
 
 
